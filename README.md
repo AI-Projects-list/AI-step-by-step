@@ -58,6 +58,12 @@ A comprehensive collection of interactive Jupyter notebooks covering essential t
 - **Covers**: MCP Fundamentals, Core Components, Resources, Tools, Prompts, Server Implementation, Client Implementation, Advanced Features, Real-World Servers, Integration Patterns, Security & Best Practices, Testing & Debugging, Deployment, Advanced Use Cases
 - **Status**: Topics 1-2 fully implemented (What is MCP, MCP Architecture Overview)
 
+### 10. **Embeddings Complete Guide** 
+📄 [embeddings_complete_guide.ipynb](./embeddings_complete_guide.ipynb)
+- **Topics**: 80 embedding techniques across 16 categories
+- **Covers**: Embedding Fundamentals, Traditional Word Embeddings, Contextualized Embeddings, Sentence & Document Embeddings, Transformer-Based Embeddings, Multilingual Embeddings, Domain-Specific Embeddings, OpenAI & Commercial Embeddings, Image Embeddings, Multimodal Embeddings, Graph Embeddings, Specialized Embeddings, Embedding Operations, Retrieval & Search, Vector Databases, Fine-tuning & Training
+- **Status**: Topics 1-2 fully implemented (What are Embeddings, Vector Spaces & Semantics)
+
 ## 🎯 Learning Approach
 
 Each topic includes:
@@ -120,6 +126,8 @@ Each notebook is designed for:
 - **NLP**: NLTK, spaCy, Transformers (BERT, GPT)
 - **LLM Integration**: Model Context Protocol (MCP)
 - **Prompt Engineering**: Context engineering techniques
+- **Embeddings**: Word2Vec, GloVe, BERT, OpenAI, Sentence Transformers
+- **Vector Databases**: FAISS, Pinecone, Weaviate, Qdrant, Chroma
 
 ## 📊 Project Structure
 
@@ -134,6 +142,7 @@ AI_step_by_step/
 ├── context_engineering_complete_guide.ipynb # 75 Context Engineering techniques
 ├── nlp_complete_guide.ipynb                # 80 NLP techniques
 ├── mcp_complete_guide.ipynb                # 80 MCP concepts
+├── embeddings_complete_guide.ipynb         # 80 Embedding techniques
 ├── data_cleaning_learning.ipynb            # Data cleaning examples
 ├── data_wrangling_learning.ipynb           # Data wrangling examples
 ├── dsa_learning.ipynb                      # Data structures & algorithms
