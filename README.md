@@ -4,56 +4,56 @@ A comprehensive collection of interactive Jupyter notebooks covering essential t
 
 ## 📚 Available Guides
 
-### 1. **Machine Learning - All Models Guide**
-- **File**: `ml_all_models_guide.ipynb`
+### 1. **Machine Learning - All Models Guide** 
+📄 [ml_all_models_guide.ipynb](./ml_all_models_guide.ipynb)
 - **Topics**: 45 ML models across 7 categories
 - **Covers**: Regression, Classification, Clustering, Dimensionality Reduction, Ensemble Methods, Neural Networks, Anomaly Detection, Time Series, Advanced ML
 - **Status**: Topics 1-2 fully implemented (Linear Regression, Polynomial Regression)
 
-### 2. **Data Science Complete Guide**
-- **File**: `data_science_complete_guide.ipynb`
+### 2. **Data Science Complete Guide** 
+📄 [data_science_complete_guide.ipynb](./data_science_complete_guide.ipynb)
 - **Topics**: 50 comprehensive topics across 9 categories
 - **Covers**: Data Collection, EDA, Cleaning, Transformation, Visualization, Statistics, Feature Engineering, Model Evaluation, Advanced Topics
 - **Status**: Topics 1-2 fully implemented (Reading CSV, Reading Excel)
 
-### 3. **Python Complete Guide**
-- **File**: `python_complete_guide.ipynb`
+### 3. **Python Complete Guide** 
+📄 [python_complete_guide.ipynb](./python_complete_guide.ipynb)
 - **Topics**: 60 Python topics across 10 categories
 - **Covers**: Basics, Control Flow, Data Structures, Functions, OOP, File Handling, Error Handling, Modules, Advanced Features
 - **Status**: Topics 1-2 fully implemented (Variables & Data Types, Operators)
 
-### 4. **Hadoop PySpark Complete Guide**
-- **File**: `hadoop_pyspark_complete_guide.ipynb`
+### 4. **Hadoop PySpark Complete Guide** 
+📄 [hadoop_pyspark_complete_guide.ipynb](./hadoop_pyspark_complete_guide.ipynb)
 - **Topics**: 65 PySpark topics across 10 categories
 - **Covers**: Spark Basics, DataFrames, Transformations, Joins, SQL, Data Cleaning, Performance Optimization, MLlib, Streaming, Advanced Topics
 - **Status**: Topics 1-2 fully implemented (SparkSession, SparkContext)
 
-### 5. **PyTorch Complete Guide**
-- **File**: `pytorch_complete_guide.ipynb`
+### 5. **PyTorch Complete Guide** 
+📄 [pytorch_complete_guide.ipynb](./pytorch_complete_guide.ipynb)
 - **Topics**: 65 PyTorch topics across 10 categories
 - **Covers**: PyTorch Fundamentals, Neural Networks, Data Handling, CNNs, RNNs, Advanced Architectures, Training Techniques, Model Optimization, Advanced Topics, Deployment
 - **Status**: Topics 1-2 fully implemented (Tensors, Tensor Operations)
 
-### 6. **Machine Learning - Detailed Models Guide**
-- **File**: `ml_all_models_detailed_guide.ipynb`
+### 6. **Machine Learning - Detailed Models Guide** 
+📄 [ml_all_models_detailed_guide.ipynb](./ml_all_models_detailed_guide.ipynb)
 - **Topics**: 75 ML models across 14 categories
 - **Covers**: Linear Models, Decision Trees, Boosting, SVM, Nearest Neighbors, Naive Bayes, Clustering, Dimensionality Reduction, Ensemble Methods, Neural Networks, Anomaly Detection, Time Series, Deep Learning, Advanced ML
 - **Status**: Topics 1-2 fully implemented (Linear Regression, Ridge Regression)
 
-### 7. **Context Engineering Complete Guide**
-- **File**: `context_engineering_complete_guide.ipynb`
+### 7. **Context Engineering Complete Guide** 
+📄 [context_engineering_complete_guide.ipynb](./context_engineering_complete_guide.ipynb)
 - **Topics**: 75 prompt engineering techniques across 13 categories
 - **Covers**: Fundamentals, Prompting Techniques, Advanced Strategies, Output Formatting, Context Optimization, Multi-Turn Conversation, RAG, Task-Specific, Safety & Guardrails, Context Enhancement, Meta-Prompting, Evaluation, Advanced Techniques
 - **Status**: Topics 1-2 fully implemented (What is Context Engineering, Basic Prompt Structure)
 
-### 8. **NLP Complete Guide**
-- **File**: `nlp_complete_guide.ipynb`
+### 8. **NLP Complete Guide** 
+📄 [nlp_complete_guide.ipynb](./nlp_complete_guide.ipynb)
 - **Topics**: 80 NLP techniques across 15 categories
 - **Covers**: Text Preprocessing, Text Representation, Word Embeddings, Advanced Embeddings/Transformers, Text Classification, Sentiment Analysis, NER, POS Tagging, Text Similarity, Topic Modeling, Text Generation, Q&A, Summarization, Translation, Advanced Tasks
 - **Status**: Topics 1-2 fully implemented (Tokenization, Lowercasing & Case Normalization)
 
-### 9. **Model Context Protocol (MCP) Complete Guide**
-- **File**: `mcp_complete_guide.ipynb`
+### 9. **Model Context Protocol (MCP) Complete Guide** 
+📄 [mcp_complete_guide.ipynb](./mcp_complete_guide.ipynb)
 - **Topics**: 80 MCP concepts across 14 categories
 - **Covers**: MCP Fundamentals, Core Components, Resources, Tools, Prompts, Server Implementation, Client Implementation, Advanced Features, Real-World Servers, Integration Patterns, Security & Best Practices, Testing & Debugging, Deployment, Advanced Use Cases
 - **Status**: Topics 1-2 fully implemented (What is MCP, MCP Architecture Overview)
