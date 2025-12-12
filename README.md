@@ -151,6 +151,7 @@ AI_step_by_step/
 ├── mcp_complete_guide.ipynb                # 80 MCP concepts
 ├── embeddings_complete_guide.ipynb         # 80 Embedding techniques
 ├── rag_complete_guide.ipynb                # 80 RAG techniques
+├── ai_agents_complete_guide.ipynb          # 80 AI Agent techniques
 ├── embeddings_complete_guide.ipynb         # 80 Embedding techniques
 ├── data_cleaning_learning.ipynb            # Data cleaning examples
 ├── data_wrangling_learning.ipynb           # Data wrangling examples
